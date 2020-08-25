@@ -105,6 +105,4 @@ window.addEventListener('DOMContentLoaded', () => {
     }
 
     setClock('.timer', deadline);
-
-    console.log(new Date())
 });
