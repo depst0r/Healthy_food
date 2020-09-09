@@ -1,12 +1,11 @@
 {
   "name": "food",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Sergey Panteleenko",
   "license": "ISC",
   "browserslist": [
     "last 2 chrome versions",
@@ -26,5 +25,17 @@
     "webpack": "^4.41.2",
     "webpack-cli": "^3.3.10",
     "webpack-stream": "^5.2.1"
-  }
+  },
+  "dependencies": {
+    "json-server": "^0.16.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/depst0r/Healthy_food.git"
+  },
+  "bugs": {
+    "url": "https://github.com/depst0r/Healthy_food/issues"
+  },
+  "homepage": "https://github.com/depst0r/Healthy_food#readme",
+  "description": ""
 }
